@@ -3,6 +3,8 @@ Kolejne dwa pliki w R stanowią główną część pracy. Wybrane pliki .csv zos
 gdyż jako jedynyne były zapisane wielkimi, zostało to przeze mnie zrobione w excelu. Oprócz tego dodałem dwa pliki z lat
 2006-2010, gdyż ich wersja pobrana ze strony głównej była nieodpowiednia / uszkodzona. Jest to wspomniane w pliku pythonowym.
 
+Do samej analizy wystarczający jest plik dat_main.csv. 
+
 W plikach w formacie R przeprowadzam analizę wpływu czynników: kohabitacji przedmałżeńskiej, bycia wierzącym oraz 
 bycia dewotą religijnym na prawdopodobieństwo rozwodu. Czynię to na podstawie bazy danych NSFG z lat 2002 - 2019, 
 na populacji ponad 70 000 osób.
