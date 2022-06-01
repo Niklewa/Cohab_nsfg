@@ -1,6 +1,7 @@
 # Cohab_nsfg
 
-Polish:
+You can find an english version at the bottom of this page.  
+Polish:   
 
 W plikach w formacie R przeprowadzam analizę wpływu czynników: kohabitacji przedmałżeńskiej, bycia wierzącym oraz 
 bycia dewotą religijnym na prawdopodobieństwo rozwodu. Czynię to na podstawie bazy danych NSFG z lat 2002 - 2019, 
@@ -16,4 +17,9 @@ Wybrane pliki .csv zostały ujednolicone do formatu małych liter,
 gdyż jako jedyne były zapisane wielkimi, zostało to przeze mnie zrobione w excelu. Oprócz tego dodałem dwa pliki z lat
 2006-2010, gdyż ich wersja pobrana ze strony głównej była nieodpowiednia / uszkodzona. Jest to wspomniane w pliku pythonowym.  
 
-Do samej analizy wystarczający jest plik dat_main.csv. 
+Do samej analizy wystarczający jest plik dat_main.csv.    
+
+Źródło danych: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/   
+Dokumentacja danych: https://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm   
+
+English:   
