@@ -1,6 +1,6 @@
 # Cohab_nsfg
 
-You can find an english version at the bottom of this page.  
+You can find an english version under the polish one.  
 Polish:   
 
 W plikach w formacie R przeprowadzam analizę wpływu czynników: kohabitacji przedmałżeńskiej, bycia wierzącym oraz 
