@@ -1,7 +1,33 @@
 # Cohab_nsfg
 
-You can find an english version under the polish one.  
-Polish:   
+Polska wersja opisu znajduje się pod angielską.
+
+English:   
+
+If you want to check out the proper description of this project read this: https://niklewa.github.io/sample_project.html
+
+In this project, using R, I conduct an analysis of probability of divorce given following factors: 
+cohabitation before marriage, being an atheist, being a religious devot. For that, I use NSFG database from years 2002 - 2019, 
+the total number of participants is 70 000.
+
+I was able to falsify the belief, that cohabitating before marriage is a direct factor that increases the probability of divorce.
+
+There are far more stronger correlates than cohabitation, e.g. being an atheist. Also, the following conclusion can be drown, that being an atheist
+is a hidden correlate, because it strongly affects the probability of cohabitating before marriage.
+
+In ipynb file I just downloaded the files and save them in the .csv format. The two R files are the main part of my work. Some automatically dowloaded files
+had to be unified to the rest in excell, there was a difference of capital and small letters. Apart from that, I had to add a pair (2006-2010) of iles from
+a different source (in different format) because their source version was not compatible / was corrupted. I mentioned that in the python file.
+
+For the purpose of the sole analysis, done in the second R file, dat_main.csv file is sufficient.
+
+Source of the data: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/  
+Data documentation: https://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm   
+
+
+Polska wersja:
+
+Jeśli chcesz przeczytać pełny opis tego projektu wejdź tutaj: https://niklewa.github.io/sample_project.html
 
 W plikach w formacie R przeprowadzam analizę wpływu czynników: kohabitacji przedmałżeńskiej, bycia wierzącym oraz 
 bycia dewotą religijnym na prawdopodobieństwo rozwodu. Czynię to na podstawie bazy danych NSFG z lat 2002 - 2019, 
@@ -22,23 +48,5 @@ Do samej analizy wystarczający jest plik dat_main.csv.
 Źródło danych: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/   
 Dokumentacja danych: https://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm   
 
-English:   
 
-In this project, using R, I conduct an analysis of probability of divorce given following factors: 
-cohabitation before marriage, being an atheist, being a religious devot. For that, I use NSFG database from years 2002 - 2019, 
-the total number of participants is 70 000.
-
-I was able to falsify the belief, that cohabitating before marriage is a direct factor that increases the probability of divorce.
-
-There are far more stronger correlates than cohabitation, e.g. being an atheist. Also, the following conclusion can be drown, that being an atheist
-is a hidden correlate, because it strongly affects the probability of cohabitating before marriage.
-
-In ipynb file I just downloaded the files and save them in the .csv format. The two R files are the main part of my work. Some automatically dowloaded files
-had to be unified to the rest in excell, there was a difference of capital and small letters. Apart from that, I had to add a pair (2006-2010) of iles from
-a different source (in different format) because their source version was not compatible / was corrupted. I mentioned that in the python file.
-
-For the purpose of the sole analysis, done in the second R file, dat_main.csv file is sufficient.
-
-Source of the data: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/stata/  
-Data documentation: https://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm 
 
